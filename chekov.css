@@ -44,3 +44,6 @@ tr:nth-child(odd) {
     background-color: #9bb06b; 
 }
 
+.CHUBUKOV:hover{
+    text-shadow: 1px 1px 5px red;
+  }
